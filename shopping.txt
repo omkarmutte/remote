@@ -1,0 +1,5 @@
+shirts
+pants
+goggle
+watch
+shoe
