@@ -1,4 +1,4 @@
 graps
 banana
-pineapple
+apple
 mango
