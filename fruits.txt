@@ -1,4 +1,6 @@
 graps
 banana
 apple
-mango
+strawberry
+pineapple
+chilli
