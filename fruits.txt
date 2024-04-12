@@ -1,6 +1,1 @@
-graps
-banana
-apple
-strawberry
-pineapple
-chilli
+Apple
